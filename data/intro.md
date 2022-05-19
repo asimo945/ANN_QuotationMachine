@@ -1,1 +1,1 @@
-## The folder puts all the daata related to the code
+### The folder puts all the data related to the code
